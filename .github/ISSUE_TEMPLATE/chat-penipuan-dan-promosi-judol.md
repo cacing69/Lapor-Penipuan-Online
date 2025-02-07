@@ -1,7 +1,7 @@
 ---
 name: Laporan SMS/WA Penipuan dan Promosi Judol
 about: Gunakan template ini untuk melaporkan np hp spam penipuan dan promosi judol
-title: "[chat] SMS/WA Penipuan dan judol"
+title: "[Chat] SMS/WA Penipuan & Promosi Judol"
 labels: chat, judol, penipuan
 assignees: []
 ---
