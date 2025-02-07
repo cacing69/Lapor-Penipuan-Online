@@ -86,7 +86,7 @@ Kamu tidak perlu menjadi ahli teknologi untuk berkontribusi! Ada banyak cara unt
 4. Membantu Mengelola Repository
    Jika kamu memiliki keterampilan dalam manajemen data atau pengembangan, kamu bisa membantu mengelola repository ini.
 5. Berpartisipasi dalam Pembuatan Dataset
-   Kami mengundang kontributor untuk membantu membersihkan, memvalidasi, dan menyusun dataset dari issue-issue yang telah dilaporkan. Jika kamu tertarik, silakan hubungi kami.
+   Kami mengundang kontributor untuk membantu membersihkan, memvalidasi, dan menyusun dataset dari issue-issue yang telah dilaporkan. Jika kamu tertarik, silakan hubungi saya.
 
 ---
 
