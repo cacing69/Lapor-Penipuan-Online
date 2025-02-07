@@ -4,6 +4,37 @@
 
 ---
 
+## 📝 **Cara Melaporkan Penipuan**
+
+1. **Buka Issue Baru**  
+   Klik tombol **"New Issue"** di repository ini untuk melaporkan kasus penipuan.
+
+2. **Gunakan Template Laporan**  
+   Pastikan kamu mengisi laporan sesuai dengan template berikut:
+
+   ```markdown
+   ### Informasi Penipuan
+   - **Nama Penipu / Akun**: [Masukkan nama atau akun penipu]
+   - **Platform**: [Contoh: Instagram, WhatsApp, Tokopedia, dll.]
+   - **Modus Penipuan**: [Jelaskan bagaimana penipuan terjadi]
+   - **Bukti**: [Tambahkan screenshot atau bukti lainnya (jika ada)]
+   - **Tanggal Kejadian**: [Contoh: 01 Oktober 2023]
+   - **Kontak Penipu**: [Nomor HP, email, atau username (jika aman untuk dibagikan)]
+
+   ### Informasi Korban
+   - **Nama Korban**: [Masukkan nama korban (jika diketahui, gunakan anonim jika tidak ingin disebutkan)]
+   - **Kontak Korban**: [Opsional, masukkan kontak korban jika tersedia]
+
+   ### Informasi Pelapor
+   - **Nama Pelapor**: [Masukkan nama pelapor (boleh anonim jika tidak ingin disebutkan)]
+   - **Hubungan dengan Korban**: [Contoh: Korban sendiri, teman korban, menemukan dari media sosial, dll.]
+   - **Sumber Laporan**: [Jika menemukan dari media sosial, sertakan link sumber postingan]
+
+3. **Submit Issue**
+   Setelah mengisi template, klik "Submit new issue" . Tim kami akan meninjau laporanmu dan menambahkan label yang sesuai.
+   
+---
+
 ## 🌟 **Mengapa Proyek Ini Penting?**
 
 Penipuan online semakin marak terjadi, dan banyak orang menjadi korban karena kurangnya informasi. Dengan mendokumentasikan kasus-kasus penipuan, kita dapat:
@@ -35,37 +66,6 @@ Dataset yang dibangun akan mencakup informasi berikut (tanpa merugikan privasi i
 - Sumber laporan (jika tersedia).
 
 Dataset ini akan dirilis secara terbuka di repository ini untuk digunakan oleh peneliti, developer, dan masyarakat umum.
----
-
-## 📝 **Cara Melaporkan Penipuan**
-
-1. **Buka Issue Baru**  
-   Klik tombol **"New Issue"** di repository ini untuk melaporkan kasus penipuan.
-
-2. **Gunakan Template Laporan**  
-   Pastikan kamu mengisi laporan sesuai dengan template berikut:
-
-   ```markdown
-   ### Informasi Penipuan
-   - **Nama Penipu / Akun**: [Masukkan nama atau akun penipu]
-   - **Platform**: [Contoh: Instagram, WhatsApp, Tokopedia, dll.]
-   - **Modus Penipuan**: [Jelaskan bagaimana penipuan terjadi]
-   - **Bukti**: [Tambahkan screenshot atau bukti lainnya (jika ada)]
-   - **Tanggal Kejadian**: [Contoh: 01 Oktober 2023]
-   - **Kontak Penipu**: [Nomor HP, email, atau username (jika aman untuk dibagikan)]
-
-   ### Informasi Korban
-   - **Nama Korban**: [Masukkan nama korban (jika diketahui, gunakan anonim jika tidak ingin disebutkan)]
-   - **Kontak Korban**: [Opsional, masukkan kontak korban jika tersedia]
-
-   ### Informasi Pelapor
-   - **Nama Pelapor**: [Masukkan nama pelapor (boleh anonim jika tidak ingin disebutkan)]
-   - **Hubungan dengan Korban**: [Contoh: Korban sendiri, teman korban, menemukan dari media sosial, dll.]
-   - **Sumber Laporan**: [Jika menemukan dari media sosial, sertakan link sumber postingan]
-
-3. **Submit Issue**
-   Setelah mengisi template, klik "Submit new issue" . Tim kami akan meninjau laporanmu dan menambahkan label yang sesuai.
-   
 ---
 
 ## 👥 **Bagaimana Cara Berkontribusi?**
