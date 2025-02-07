@@ -1,7 +1,7 @@
 ---
 name: Laporan Penipuan Online
 about: Gunakan template ini untuk melaporkan kasus penipuan online.
-title: "Nama Penipu / Platform"
+title: "[Penipuan]Nama Penipu / Platform"
 labels: penipuan, laporan
 assignees: []
 ---

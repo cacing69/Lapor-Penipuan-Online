@@ -44,6 +44,20 @@ Setiap laporan akan dicatat sebagai **Issue** di repository ini supaya lebih ban
    - Link
    ```
 
+   Format SMS/WA Penipuan dan Promosi Judol:
+
+    ```markdown
+   ### Informasi Pesan
+
+   - **No Hp**: -
+   - **Isi Pesan** (Opsional): -
+
+   ### Bukti / Screenshoot
+
+   Upload bukti pendukung disini
+
+   ```
+
 3. ### Kirim Laporan
 
    Klik **"Submit new issue"**, saya dan kontributor lainnya akan meninjau laporanmu.
