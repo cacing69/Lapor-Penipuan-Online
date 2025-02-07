@@ -25,8 +25,8 @@ assignees: []
 - **Nama Pelapor**: -
 - **Hubungan dengan Korban**: -
 
-### Bukti / Screenshoot**
+### Bukti / Screenshoot
 
-### **Sumber Laporan**
+### Sumber Laporan
 
 - Link
