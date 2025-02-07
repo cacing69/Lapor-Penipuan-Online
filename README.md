@@ -1,18 +1,19 @@
 # 🚨 **Lapor Penipuan Online** 🚨
 
-**Lapor Penipuan Online** adalah inisiatif komunitas untuk melacak dan melaporkan kasus penipuan baik itu online maupun offline. Setiap laporan penipuan akan didokumentasikan sebagai **Issue** di repository ini. Dengan berbagi informasi, kita dapat membantu melindungi orang lain dari menjadi korban penipuan.
+**Lapor Penipuan Online** adalah inisiatif komunitas untuk mendokumentasikan kasus penipuan, baik online maupun offline.
+Setiap laporan akan dicatat sebagai **Issue** di repository ini supaya lebih banyak orang bisa waspada terhadap berbagai modus penipuan.
 
 ---
 
 ## 📝 **Cara Melaporkan Penipuan**
 
 1. **Buka Issue Baru**
-   Klik tombol **"New Issue"** di repository ini untuk melaporkan kasus penipuan.
+   Klik **"New Issue"** di repository ini.
 
 2. **Gunakan Template Laporan**
-   Pastikan kamu mengisi laporan sesuai dengan template berikut:
+   Salin dan isi laporan dengan format berikut:
 
-   ```markdown
+    ```markdown
    ### Informasi Penipuan
    - **Nama Penipu / Akun**: [Masukkan nama atau akun penipu]
    - **Platform**: [Contoh: Instagram, WhatsApp, Tokopedia, dll.]
@@ -31,97 +32,62 @@
    - **Hubungan dengan Korban**: [Contoh: Korban sendiri, teman korban, menemukan dari media sosial, dll.]
    - **Sumber Laporan**: [Jika menemukan dari media sosial, sertakan link sumber postingan]
 
-3. **Submit Issue**
 
-   Setelah mengisi template, klik "Submit new issue" . Tim kami akan meninjau laporanmu dan menambahkan label yang sesuai.
+3. **Kirim Laporan**
 
----
-
-## 🌟 **Mengapa Proyek Ini Penting?**
-
-Penipuan online semakin marak terjadi, dan banyak orang menjadi korban karena kurangnya informasi. Dengan mendokumentasikan kasus-kasus penipuan, kita dapat:
-
-- Membantu orang mengenali modus penipuan.
-- Memberikan peringatan kepada calon korban potensial.
-- Mendorong kolaborasi komunitas untuk melawan penipuan.
-
-Setiap kontribusi ke repository ini sangat berarti. Mari bersama-sama membangun database penipuan online yang transparan dan bermanfaat!
+   Klik **"Submit new issue"**, dan saya akan meninjau laporanmu.
 
 ---
 
-## 📊 **Dataset Penipuan Online**
+## 🌟 **Mengapa Ini Penting?**
 
-Saya sedang mengembangkan **dataset penipuan online** yang akan dibuat berdasarkan laporan dari issue-issue di repository ini. Dataset ini nantinya dapat digunakan untuk:
+Dengan mendokumentasikan kasus penipuan, kita bisa:
 
-- Analisis tren penipuan online.
-- Pengembangan model machine learning untuk mendeteksi penipuan.
-- Penelitian akademik atau publik tentang keamanan digital.
-
-Dengan melaporkan kasus penipuan, kalian tidak hanya membantu individu, tetapi juga berkontribusi pada upaya yang lebih besar untuk memerangi penipuan secara sistematis.
-
-## 🔮 **Rencana Pengembangan Dataset**
-
-Dataset yang dibangun akan mencakup informasi berikut (tanpa merugikan privasi individu):
-
-- Platform yang digunakan oleh penipu.
-- Modus operan penipuan.
-- Frekuensi kejadian.
-- Lokasi (jika tersedia).
-- Sumber laporan (jika tersedia).
-
-Dataset ini akan dirilis secara terbuka di repository ini untuk digunakan oleh peneliti, developer, dan masyarakat umum.
+✅ Mengenali modus penipuan lebih cepat.
+✅ Mencegah lebih banyak korban.
+✅ Membangun komunitas yang lebih waspada.
 
 ---
 
-## 👥 **Bagaimana Cara Berkontribusi?**
+## 📊 **Pengembangan Dataset Penipuan**
 
-Kamu tidak perlu menjadi ahli teknologi untuk berkontribusi! Ada banyak cara untuk membantu:
+Saya sedang mengembangkan **dataset penipuan online** berdasarkan laporan yang masuk.
+Dataset ini nantinya bisa digunakan untuk:
 
-1. Melaporkan Penipuan
-   Laporkan kasus penipuan yang kamu temui atau alami melalui fitur Issues .
-2. Mengonfirmasi Laporan
-   Jika kamu pernah mengalami kasus serupa dengan laporan yang ada, tambahkan komentar di issue tersebut untuk mengonfirmasi.
-3. Menyebarluaskan Proyek Ini
-   Bagikan repository ini ke teman, keluarga, atau media sosialmu. Semakin banyak orang yang tahu, semakin besar dampaknya!
-4. Membantu Mengelola Repository
-   Jika kamu memiliki keterampilan dalam manajemen data atau pengembangan, kamu bisa membantu mengelola repository ini.
-5. Berpartisipasi dalam Pembuatan Dataset
-   Kami mengundang kontributor untuk membantu membersihkan, memvalidasi, dan menyusun dataset dari issue-issue yang telah dilaporkan. Jika kamu tertarik, silakan hubungi kami.
+🔹 Analisis tren penipuan.
+🔹 Pengembangan AI/ML untuk deteksi penipuan.
+🔹 Penelitian keamanan digital.
+
+Dataset ini akan mencakup informasi seperti platform, modus operasi, dan frekuensi kejadian, **tanpa membahayakan privasi individu**.
 
 ---
 
-## 🤝 **Ajakan untuk Bergabung**
+## 👥 **Bagaimana Kamu Bisa Berkontribusi?**
 
-Saya percaya bahwa kolaborasi adalah kunci untuk melawan penipuan online. Jika kalian peduli dengan keamanan komunitas online, mari bergabung dengan! Setiap laporan yang kalian buat dapat menyelamatkan orang lain dari menjadi korban penipuan.
-
-👉 Klik tombol ⭐ di repository ini untuk mendukung proyek kami!
-👉 Bagikan repository ini ke teman-temanmu agar lebih banyak orang yang terlibat!
-
----
-
-## 📜 **Kode Etik**
-
-Pastikan semua laporan berdasarkan fakta dan tidak mengandung unsur hoaks.
-Hindari menyebarkan informasi pribadi yang dapat membahayakan individu.
-Bersikaplah sopan dan hormati kontributor lainnya.
+✅ **Laporkan Penipuan** yang kamu alami atau temui.
+✅ **Konfirmasi Laporan** jika mengalami kasus serupa.
+✅ **Sebarkan Informasi** agar lebih banyak orang tahu.
+✅ **Bantu Kelola Repository** jika punya keterampilan terkait.
+✅ **Terlibat dalam Pembuatan Dataset** untuk penelitian lebih lanjut.
 
 ---
 
-## 📢 **Hubungi Saya**
+## 🤝 **Ayo Lawan Penipuan Bersama!**
 
-Jika kalian memiliki pertanyaan, saran, atau ingin berkolaborasi lebih lanjut, silakan hubungi saya melalui:
+🔹 **Klik ⭐** untuk mendukung proyek ini!
+🔹 **Bagikan ke teman & keluarga** supaya lebih banyak yang terlibat!
+🔹 **Hubungi saya** kalau mau berkolaborasi lebih lanjut:
 
-Email: `ibnuul@gmail.com`
+📧 **Email**: `ibnuul@gmail.com`
+📱 **WhatsApp**: `+62 896-7216-5341`
 
-Whatsapp: `+62 896-7216-5341`
+Terima kasih sudah ikut berkontribusi! Dengan berbagi informasi, kita bisa membuat internet lebih aman! 💪🌐
 
-## 🤝 **Terima Kasih Telah Bergabung!**
-
-Setiap kontribusi kecil sangat berarti. Bersama-sama, kita bisa membuat internet menjadi tempat yang lebih aman bagi semua orang. 💪🌐
+---
 
 ## 🛡️ **Privasi dan Keamanan**
 
-Saya akan sangat memperhatikan privasi dan keamanan data. Oleh karena itu:
-
-Informasi sensitif seperti nama korban atau kontak pribadi tidak akan dipublikasikan tanpa izin.
-Semua laporan akan ditinjau untuk memastikan keakuratannya sebelum dimasukkan ke dalam dataset.
+🔹 Informasi sensitif seperti nama korban atau kontak pribadi **tidak akan dipublikasikan tanpa izin**.
+🔹 Semua laporan akan ditinjau supaya informasinya akurat sebelum masuk ke dalam dataset.
+🔹 Pastikan laporan berdasarkan fakta dan tidak mengandung hoaks.
+🔹 Bersikaplah sopan dan hormati kontributor lainnya.
