@@ -1,5 +1,5 @@
 ---
-name: Laporan Penipuan Online
+name: Lapor Penipuan
 about: Gunakan template ini untuk melaporkan kasus penipuan online, pastikan tidak ada data pribadimu yang tersebar, gunakan anonim atau kosongkan saja field yang tidak ingin diisi
 title: "[Penipuan]Nama Penipu / Platform"
 labels: penipuan, laporan
