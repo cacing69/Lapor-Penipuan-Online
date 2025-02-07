@@ -10,8 +10,7 @@ assignees: []
 
 - **Nama Penipu / Akun**: -
 - **Platform / Sosial Media**: -
-- **Modus Penipuan**: -
-- **Bukti / Screenshoot**: -
+- **Modus/Kronologi Penipuan**: -
 - **Tanggal Kejadian**: -
 - **Kontak Penipu**: -
 - **Rekening Penipu**: -
@@ -25,4 +24,9 @@ assignees: []
 
 - **Nama Pelapor**: -
 - **Hubungan dengan Korban**: -
-- **Sumber Laporan**: -
+
+### Bukti / Screenshoot**
+
+### **Sumber Laporan**
+
+- Link
