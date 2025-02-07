@@ -91,8 +91,6 @@ Dataset ini akan mencakup informasi seperti platform, modus operasi, dan frekuen
 
 📧 **Email**: `ibnuul@gmail.com`
 
-📱 **WhatsApp**: `+62 896-7216-5341`
-
 Terima kasih sudah ikut berkontribusi! Dengan berbagi informasi, kita bisa membuat internet lebih aman! 💪🌐
 
 ---
